@@ -13,4 +13,8 @@ Dispozitivele de citire/scriere sunt conectate la sistem prin porturi.	(261)
 Fie P1.BAT este următorul fișier de comenzi: 	(261)&
 Folosirea multiplelor porțiuni pentru păstrarea datelor în RAM se numește fragmentarea memoriei.	(262)
 Un sistem de fișiere posedă blocuri de disc câte 2k fiecare.Dimensiunea medie a fișierelor este 1k. Dacă toate fișierele ar avea dimensiunea de 1k, a câta parte din volumul discului nu ar fi folosită?	(262)-
-Ce execută co
+Ce execută comanda (263)?
+Unitățile de înscripționare CD-uri sunt un exemplu de resursă non-preemptibilă.		(263)
+Controlerul dispozitivului administrează fizic dispozitivului i/o.	(264) (litera o)
+Alocarea spațiului de memorie între mai multe programe se face după următoarele modele: 	(264)
+Comanda ls -l | sort -k 8 afișează la monitor numele obiectelor directorului curent în ordine alfabetică.	(264)
