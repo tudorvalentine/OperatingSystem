@@ -16,7 +16,7 @@ Adresa de încărcare a programului în memorie se numește adresă de bază.  (
 Adresa determinată ca distanța de la adresa de bază a programului pâna la adresa entității respective se numște adresă relativă.  (35)
 Algoritmul 'interzice întreruperi' se referă la:		(317)
 Algoritmul bancherului se referă la algoritmi de înlocuire a paginilor fizice.	(17)
-Alocarea paginată, segmentată, segmentato - paginată se referă la: 		?????????????
+Alocarea paginată, segmentată, segmentato - paginată se referă la: 		(230)
 Alocarea reală cu partiții fixe și cu partiții variabile se utilizează pentru:  (40)
 Alocarea spațiului de memorie între mai multe programe se face după următoarele modele:  (110)
 Android este un sistem de operare pentru dispozitive mobile bazat pe nucleu Linux.	(304)
@@ -35,37 +35,25 @@ Care expresii sunt corecte?		(275)
 Care model de adresare se utilizează la comunicarea proceselor prin conducte (pipe) ?	(367)
 Care răspunsuri sunt corecte?	(413)
 Ce este un program de aplicație? 	(404)
-Ce execută comanda   (21)?
-Ce execută comanda  (22)?
-Ce execută comanda  (23)?
-Ce execută comanda  (34)?
-Ce execută comanda  (46)?
-Ce execută comanda  (70)?
-Ce execută comanda  (78)?
+Ce execută comanda  ls -l ~/dir1 | wc -l? 	(21)
+Ce execută comanda  ls -l | grep ".*txt" ?	(22)
+Ce execută comanda  ?	(34)
+Ce execută comanda  grep "adii" /etc/passwd > file? 	(46)
+Ce execută comanda  who | sort 	(70)
+Ce execută comanda  who > f.1 	(78)
 Ce execută comanda  (83)?
-Ce execută comanda  (95)
-Ce execută comanda 	who > f.1? 	(256) ?
-Ce execută comanda (263)?
-Ce execută comanda who |wc-I > fail ?  (4)
+Ce execută comanda  date | cut -c 12-16?	(95)
+Ce execută comanda who |wc -i > fail ?  (4)
 Ce ne arată extensia unui fișier? 	(325)
-Ce ne arată extensia unui fișier?		(291)
-Ce ne arată extensia unui fișier?	(390)
-Ce poate să afișeze comanda grep "abc*" words.1 din rândurile unui fișier words.1?  (58)
 Ce poate să afișeze comanda grep ”abc*” words.1 din rândurile unui fișier words.1?	(265)
 Ce reprezintă calea de acces relativă pentru un fișier? 	(407)
-Ce reprezintă calea de acces relativă pentru un fișier?		(330)
-Ce reprezintă calea de acces relativă pentru un fișier?	(323)
 Ce reprezintă un sistem de calcul multitasking? 	(301)
-Ce rol îndeplinește microprocesorul? 	(481)
-Ce rol îndeplinește microprocesorul?	(302)
 Ce rol îndeplinește microprocesorul?	(325)
 Cea mai tipică tehnică de mărire a vitezei de operare cu discul este bufferizarea.  (18)
 Cea mai tipică tehnică de mărire a vitezei de operare cu discul este bufferizarea.  (36)
-Cea mai tipică tehnică de mărire a vitezei de operare cu discul este bufferizarea.	(255)
-Cea mai tipică tehnică de mărire a vitezei de operare cu discul este cașarea  (70)
 Cel mai răspândit Sistem de operare folosit la dispozitivele mobile este Simbian OS.	(429)/
 Comada PAUSE afișează mesaje	(383)/
-Comanda  (134)?
+Comanda ls -l | sort -k 8 afișează la monitor numele obiectelor directorului curent în ordine alfabetică.	(134)
 Comanda attrib permite atribuirea diferitor extensii fișierelor.	(435)/
 Comanda attrib permite schimbarea atributelor fișierelor.	(343)/
 Comanda C:\> MOVE *.* d:  mută fișiere din directorul rădăcină, discul C: în directorul rădăcină pe discul d:	(272)
@@ -76,101 +64,73 @@ Comanda cat >farmer.farm afișează pe monitor conținutul fișierului farmer.fa
 Comanda copy 	(490)
 Comanda COPY CON creează fișiere de tip .bat 	(400)
 Comanda COPY CON creează fișiere textuale	(415)
-Comanda copy con prn 		(292)
 Comanda copy con prn 	(373)
 Comanda COPY CON redactează fișiere de tip .bat 	(370)
 Comanda COPY CON redacteză fișiere textuale 	(369)
-Comanda COPY CON redirectează fișiere de tip .bat	(338)
-Comanda copy file.txt prn 		(319)
 Comanda copy file.txt prn 	(279)
-Comanda copy file.txt prn 	(293)
-Comanda copy file.txt prn 	(338)
 Comanda cut —d: -f 1,3 /etc/passwd va afişa lista utilizatorilor logaţi și numerele lor de înregistrare.  (43)
-Comanda DEL *.* șterge fișierele din directorul rădăcină 	(478)//
+Comanda DEL *.* șterge fișierele din directorul rădăcină 	(478)
 Comanda DEL *.* șterge toate fișierele de pe disc 		(293)
 Comanda DEL *.* șterge toate fișierele din directorul curent 	(472)/
 Comanda DEL *.* șterge toate fișierele din directorul rădăcină și din directorul curent		(355)
 Comanda DEL *.* șterge toate fișierele din directorul rădăcină		(289)
-Comanda DEL *.* șterge toate fișierele din directorul rădaăcină		(485)
 Comanda dir | find ".doc" | sort /+39 afișează în ordine alfabetică toate fișierele cu extensia doc din directorul curent.		(318)
 Comanda dir | find ".txt" > pm redirectează toate fișierele cu extensia .txt din directorul rădacină în fișierul prn.	(330)
 Comanda dir | find ".txt" > prn redirectează toate fișierele cu extensia .txt din directorul rădacină (280)
 Comanda dir | find ".txt" > prn tipărește la imprimantă toate fișierele cu extensia .txt din directorul curent. 	(316)
 Comanda dir are rolul:		(283)
-Comanda dir are rolul:		(284)
-Comanda dir are rolul:	(438)/
 Comanda ECHO afișează mesaje	(281)
 Comanda FIND afișează mesaje	(307)
-Comanda FIND afișează mesaje	(357)
 Comanda FIND nu servește la:	(336)
-Comanda FIND nu servește la:	(382)/
 Comanda FIND servește la afișarea mesajului indicat pe ecranul monitorului		(437)
 Comanda FIND servește la căutarea directoarelor și fișierelor	(457)/
 Comanda ls -l | sort -k 8 afișează la monitor numele obiectelor directorului curent în ordine alfabetică.	(264)
 Comanda ls -la | wc -l afișează la monitor numărul utilizatorilor activi in Linux.  (71)
-Comanda move permite mutarea fișierelor.	(346)/
 Comanda move permite mutarea fișierelor.	(406)
 Comanda move permite redenumirea fișierelor.	(500)
 Comanda nl file | grep ”.....[24680]” >f1 redirecteză în f1 doar liniile pare din fișierul file.	(19)
 Comanda PAUSE afișează mesaj 	(319)
 Comanda RD aaa șterge directorul curent aaa		(339)
 Comanda RD aaa șterge directorul rădăcină aaa 	(271)
-Comanda RD aaa șterge directorul rădăcină aaa 	(289)
 Comanda RD aaa șterge un director vid aaa	(323)
 Comanda ren permite redenumerea fișierelor.	(338)
 Comanda SHIFT afișează mesaje	(360)
-Comanda sort < con >> f1.txt	(356)
-Comanda sort < con >>f1.txt 	(310)
-Comanda time afișează data curentă pe monitor.	(270)
+Comanda sort < con >> f1.txt 	(310)
 Comanda time afișează data curentă pe monitor.	(505)
 Comanda who | grep mary afișează la monitor informația despre utilizatorul înregistrat mary.  (80	)
 Comanda who | wc -1 afişează la monitor numărul utilizatorilor logaţi Linux.  (4)
 Componenta software a unui calculator este formată din programe destinate să asigure conducerea și controlul procesului de prelucrare și efectuare a unor lucrări curente.	(389)
 Componentele unui sistem de operare sunt apelurile de sistem și întreruperile.	(395)
 Componentele unui sistem de operare sunt nucleul și interfața. 		(315)
-Componentele unui sistem de operare sunt nucleul și interfața.		(268)
-Componentele unui sistem de operare sunt nucleul și interfața.		(288)
-Comunicarea între procese are loc prin:	(353)/
 Comunicarea între procese are loc prin:	(405)
 Conținutul regiștrilor procesorului face parte din contextul de registru al procesului.		(389)
-Conținutul regiștrilor procesorului face parte din contextul de registru al procesului.	(414)
 Controlerul dispozitivului administrează fizic dispozitivului i/o.	(264) (litera o)
 Controlerul dispozitivului administrează logic dispozitivul i/o.  (16)
 Criteriile de comparare ale algorimilor de planificare a proceselor in SC pot fi:	(490)
 Despre câte generații ale Sistemelor de Operare este vorba?		(340)
-Determinați dacă starea descrisă duce la impas. Răspundeți cu da sau nu.  (24,44)
+Determinați dacă starea descrisă duce la impas. Răspundeți cu da sau nu.  (44)
 Determinați dacă starea descrisă duce la impas. Răspundeți cu DA sau NU.  (49)
 Determinați dacă starea descrisă duce la impas. Răspundeți cu da sau nu.	(255)
-Determinați dacă starea descrisă duce la impas. Răspundeți cu da sau nu.	(266)&
-Din SO face parte următorul ansamblu de programare:		(342)/
+Determinați dacă starea descrisă duce la impas. Răspundeți cu da sau nu.	(266)
 Din SO face parte următorul ansamblu de programe:	(422)
 Directiva PAUSE întrerupe execuția unei comenzi 	(496)
 Directiva PAUSE întrerupe execuția unei directive.	(372)
-Directiva PAUSE întrerupe execuția unei directive.	(470)/
 Directiva PAUSE întrerupe execuția unui fișier de tip .com 		(289)
 Directiva PAUSE întrerupe execuția unui fișier de tip .exe 	(416)
-Directiva PAUSE întrerupe temporar execuția unui fișier de tip .bat 	(271)
 Directiva PAUSE întrerupe temporar execuția unui fișier de tip .bat 	(390)
 Directiva PAUSE intrerupe execuția unui fișier de tip .com 	(466)/
 Directiva SHIFT afișează conținutul fișierului de comenzi		(285)
-Directiva SHIFT afișează conținutul fișierului de comenzi	(308)
-Directiva SHIFT afișează conținutul fișierului de comenzi	(322)
 Directiva SHIFT afișează mulțimea argumentelor 	(442)/
-Directiva SHIFT afișează mulțimea parametrilor formali	(351)/
 Directiva SHIFT afișează mulțimea parametrilor formali	(413)
-Dispozitivele de citire/scriere sunt conectate la sistem prin porturi.  (131)
 Dispozitivele de citire/scriere sunt conectate la sistem prin porturi.  (3)
-Dispozitivele de citire/scriere sunt conectate la sistem prin porturi.	(261)
 Evidența ocupării memoriei interne este o funcție de gestionare a memoriei.  (75)
 Evidența programelor studențești din sistem este o funcție a sistemului de operare.		(339)
 Exista două spații de adresă: un spațiu al memoriei și un spațiu de input/output.  (26)
-Expresia regulată  (61)&
-Expresia regulată "[Ff]arm"va afișa Farm.  (38)
 Expresia regulată ”[Ff]arm”va afișa Farm.	(258)
 Exprezia regulată ” \$[5-9]\.[0-9][0-9]” va afișa $0.32, sau $1.84, sau $4.01, sau $2.55 ...	(257)
 Fişierul este unitatea fizică de organizare a datelor pe suport extern.  (3)
-Fie în sistemul de calcul au fost ințiate 5 procese conform schemei:	(434)$/
-Fie în sistemul de calcul au fost inițiate 4 procese conform schemei:	(385)/$
+Fie în sistemul de calcul au fost ințiate 5 procese conform schemei:	(434)/
+Fie în sistemul de calcul au fost inițiate 4 procese conform schemei:	(385)/
 Fie că se execută comenzile DIR d: > c3.asm ...		(335)
 Fie două activități P și Q.		(269)
 Fie două activități P și Q.		(280)
