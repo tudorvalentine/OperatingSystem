@@ -23,5 +23,5 @@ Pentru a putea utiliza un sistem de fișiere pe o partiție dată, prima acțiun
 Dispozitivele de citire/scriere sunt conectate la sistem prin porturi.  (131)
 Comanda  (134)?
 Restaurarea în urma interblocării se face prin preemțiune.  (136)
-Un utilizator configurează un fișier cu drepturi de acces 755.Ce utilizator are dreptul de execuție pe fișier?
+Un utilizator configurează un fișier cu drepturi de acces 755.Ce utilizator are dreptul de execuție pe fișier? 	(169)
   

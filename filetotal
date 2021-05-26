@@ -5,55 +5,45 @@
 În sistem sunt 4 procese și 5 resurse alocate.Numărul resurselor alocate deja și numărul maximal necesar proceselor este:  (2)
 În sistem sunt 6 unități de bandă magnetică și n procese, care concurează pentru resurse.Fiecare proces are nevoie de 2 unități.Care este valoarea maximă a lui n pentru care în sistem nu va apărea interblocarea?  (13)
 În sisteme de partajare a timpului :	(324)
-În sisteme de partajare a timpului: 	(402)
 În sistemul de operare UNIX diferențierea între fișiere executabile și cele neexecutabile se face pe baza extensiei numelui fișierului.  (31)
 În Windows 98 numele unui fișier poate avea maxim:		(274)
-În Windows 98 numele unui fișier poate avea maxim:		(317)
 Într-un sistem de calcul resursele sunt de doua tipuri:  (37)
-Într-un sistem de fișiere accesul la fișiere este obligator secvențial.  (52)
-Într-un sistem de fișiere accesul la fișiere este obligator secvențial.  (6)
 Într-un sistem de fișiere accesul la fișiere este obligator secvențial.		(267)
 Întreruperile de soft(de program) apar predictibil(prevăzut) într-un sistem de calcul.	(291)
 Întreruperile de timer sunt folosite de sistemul de operare la planificarea proceselor.	(368)
 Întreruperile hardware apar predictibil(prevăzut) într-un sistem de calcul.		(427)
-Сând procesul aflat în stare ”proces complet” poate părăsi sistemul?	(309)
-Adesa de încărcare a programului în memorie se numește adresă de bază.		(266)
-Adresa de înărcare a programului în memorie se numește adresă de bază.  (17)
-Adresa de încărcare a programului în memorie se numește adresă de bază.	(257)
+Adresa de încărcare a programului în memorie se numește adresă de bază.  (17)
 Adresa determinată ca distanța de la adresa de bază a programului pâna la adresa entității respective se numște adresă relativă.  (35)
 Algoritmul 'interzice întreruperi' se referă la:		(317)
 Algoritmul bancherului se referă la algoritmi de înlocuire a paginilor fizice.	(17)
-Alocarea paginată, segmentată, segmentato - paginată se referă la:
+Alocarea paginată, segmentată, segmentato - paginată se referă la: 		?????????????
 Alocarea reală cu partiții fixe și cu partiții variabile se utilizează pentru:  (40)
-Alocarea spațiului de memorie între mai multe programe se face după următoarele modele:  (45)
-Alocarea spațiului de memorie între mai multe programe se face după următoarele modele: 	(264)
+Alocarea spațiului de memorie între mai multe programe se face după următoarele modele:  (110)
 Android este un sistem de operare pentru dispozitive mobile bazat pe nucleu Linux.	(304)
 Apelurile sistem reprezintă interfața între sistemul de operare și programele utilizatorului.	(322)
-Când procesul aflat în stare ”proces complet” poate părăsi sistemul?	(436)/
-Care comenzi sunt corecte:	(349)!/
+Сând procesul aflat în stare ”proces complet” poate părăsi sistemul?	(309)
 Care comenzi sunt corecte? 	(353)!/
-Care comenzi sunt corecte? (298)
 Care comenzi sunt corecte?		(270)
-Care comenzi sunt corecte?		(315)
-Care comenzi sunt corecte?	(356)!
+Care din comenzi NU este o comandă de ajutor în SO Linux?  (94)
 Care din următoarele situații apar predictibil(prevăzut) într-un sistem de calcul?	(362)
 Care dintre sisteme de operare oferă variante atât pentru varianta desktop cât și pentru rețea?		(497)
+Care dintre următoarele NU este un sistem de fișiere?  (90)
 Care dintre următoarele NU reprezintă o resursă partajată în cazul virtualizării?  (4)
-Care dintre următoarele NU reprezintă o resursă partajată in cazul virtualizării?  (27)
 Care dintre următorii algoritmi permit amânarea nelimitată a selectării unui proces din lista celor gata de execuție:	(387)/
 Care elemente nu pot lipsi pentru ca un sistem de calcul să funcționeze?	(284)
-Care expresii sunt corecte? 	(398)!
 Care expresii sunt corecte?		(275)
 Care model de adresare se utilizează la comunicarea proceselor prin conducte (pipe) ?	(367)
-Care răspunsuri sunt corecte?	(276)
 Care răspunsuri sunt corecte?	(413)
 Ce este un program de aplicație? 	(404)
-Ce este un program de aplicație?	(483)
-Ce execută comanda  (21)?
+Ce execută comanda   (21)?
 Ce execută comanda  (22)?
 Ce execută comanda  (23)?
 Ce execută comanda  (34)?
 Ce execută comanda  (46)?
+Ce execută comanda  (70)?
+Ce execută comanda  (78)?
+Ce execută comanda  (83)?
+Ce execută comanda  (95)
 Ce execută comanda 	who > f.1? 	(256) ?
 Ce execută comanda (263)?
 Ce execută comanda who |wc-I > fail ?  (4)
@@ -75,6 +65,7 @@ Cea mai tipică tehnică de mărire a vitezei de operare cu discul este bufferiz
 Cea mai tipică tehnică de mărire a vitezei de operare cu discul este cașarea  (70)
 Cel mai răspândit Sistem de operare folosit la dispozitivele mobile este Simbian OS.	(429)/
 Comada PAUSE afișează mesaje	(383)/
+Comanda  (134)?
 Comanda attrib permite atribuirea diferitor extensii fișierelor.	(435)/
 Comanda attrib permite schimbarea atributelor fișierelor.	(343)/
 Comanda C:\> MOVE *.* d:  mută fișiere din directorul rădăcină, discul C: în directorul rădăcină pe discul d:	(272)
@@ -116,6 +107,7 @@ Comanda FIND nu servește la:	(382)/
 Comanda FIND servește la afișarea mesajului indicat pe ecranul monitorului		(437)
 Comanda FIND servește la căutarea directoarelor și fișierelor	(457)/
 Comanda ls -l | sort -k 8 afișează la monitor numele obiectelor directorului curent în ordine alfabetică.	(264)
+Comanda ls -la | wc -l afișează la monitor numărul utilizatorilor activi in Linux.  (71)
 Comanda move permite mutarea fișierelor.	(346)/
 Comanda move permite mutarea fișierelor.	(406)
 Comanda move permite redenumirea fișierelor.	(500)
@@ -166,6 +158,7 @@ Directiva SHIFT afișează conținutul fișierului de comenzi	(322)
 Directiva SHIFT afișează mulțimea argumentelor 	(442)/
 Directiva SHIFT afișează mulțimea parametrilor formali	(351)/
 Directiva SHIFT afișează mulțimea parametrilor formali	(413)
+Dispozitivele de citire/scriere sunt conectate la sistem prin porturi.  (131)
 Dispozitivele de citire/scriere sunt conectate la sistem prin porturi.  (3)
 Dispozitivele de citire/scriere sunt conectate la sistem prin porturi.	(261)
 Evidența ocupării memoriei interne este o funcție de gestionare a memoriei.  (75)
@@ -184,6 +177,7 @@ Fie două activități P și Q.		(280)
 Fie P1.BAT este următorul fișier de comenzi: 	(261)&
 Fie P1.BAT este următorul fișier de comenzi: (47)&
 Fie tabela de pagini a procesului curent este următoarea. Dimensiunea paginii este 1024 octeți. Ce adresă fizică corespunde adresei virtuale 1052?  (20)
+Fie tabela de pagini a procesului curent este următoarea. Dimensiunea paginii este 1024 octeți. Ce adresă fizică corespunde adresei virtuale 5499?
 Fie tabela de pagini a procesului curent este următoarea. Sistemul dispune de 8 pagini virtuale și 6 pagini fizice.		(267)
 Fie tabela de pagini a procesului curent este următoarea. Sistemul dispune de 8 pagini virtuale şi 6 pagini fizice. Dimensiunea paginii este 512 octeți. Ce adresă fizică corespunde adresei virtuale 500?  (5)
 Folderul este: 		(308)
@@ -207,16 +201,22 @@ La terminarea procesului părinte, diferite sisteme de operare schimbă starea p
 La terminarea procesului părinte, diferite sisteme de operare schimbă starea procesului fiu diferit.	(320)
 La terminarea procesului părinte, diferite sisteme de operare schimbă starea procesului fiu diferit.	(423)
 Locul SO într-un sistem de calcul este între componenta hardware și aplicații.	(488)
+Memoria internă este un exemplu de resursă preemptibilă.  (84)/
 Memoria RAM își pierde conținutul la deconectarea sistemului de calcul.  (1)
 Microsoft Windows, Apple Mac OS și Unix/Linux sunt: 	(313)
 Modul de organizare a sistemului de fișiere în directorii poate fi:  (18)
 Modul de organizare a sistemului de fișiere în directorii poate fi:  (33)
+Modul de organizare a sistemului de fișiere în directorii poate fi:  (96)
 Multiprocesoarele necesită Sisteme de operare cu caracteristici speciale privind comunicația și conectivitatea.		(285)
 Multiprocesoarele necesită Sisteme de operare cu caracteristici speciale privind comunicația și conectivitatea.		(409)
 Noțiunile nucleu integru, sisteme in straturi, micronucleu se referă la:	(274)
+Numărul sectorului, numărul pistei și numărul cilindrului determină în mod unic poziția datelor pe hard disk.  (81)
 O resursă non-preemptibilă este o resursă ce poate fi luată de la deţinătorul ei fără ca execuţia acestuia să eșueze.  (43)
+O resursă non-preemptibilă este o resursă ce poate fi luată de la procesul care o deține fără efecte nedorite.  (103)
+O resursa poate fi folosita nu doar de un singur proces în orice moment de timp.  (79)
 Oricărui proces dirijat de SO în sistemul de calcul i se alocă un număr unic de identificare.	(488)
 Oricărui proces dirijat de SO în sistemul de calcul i se alocă un procesor.	(487)
+Pentru a putea utiliza un sistem de fișiere pe o partiție dată, prima acțiune absolut necesară care trebuie executată este:  (127)
 Pentru a putea utiliza un sistem de fișiere pe o partiție dată, prima acțiune absolut necesară care trebuie executată este:  (48)
 Planificarea lucrărilor a fost posibilă odată cu:	(475)/
 Planificarea lucrărilor a fost posibilă odată cu:	(504)
@@ -225,7 +225,9 @@ Porțiunea de spațiu extra spaţiului disponibil în RAM se numește memorie vi
 Porturile sunt mapate în spațiul de adrese i/o și uneori direct în spațiul de adrese al memoriei.  (44)
 Prin ce diferă o înregistrare din tabela de pagini în schema cu memorie virtuală de cea din schema cu organizare paginată?  (15-)
 Prin ce se explică eficacitatea schemei ierarhice a memoriei interne?	(258)
+Principalele moduri de alocare a memoriei:  (125)
 Principalii algoritmi pentru alocarea memoriei sunt:  (12)
+Principalii algoritmi pentru alocarea spațiului pe disc sunt:  (140)
 Principalul avantaj al utilizării tabelei FAT faţă de schema clasică a listelor înlănţuite de blocuri este:  (5)
 Principalul modul al SO este nucleul.	(487)
 Problemă 	(306)$
@@ -243,7 +245,9 @@ Procesul se adresează la paginile 012301401234. Utilizați algoritmul FIFO pent
 Procesul se adresează la paginile 0154723257103. Utilizați algoritmul FIFO pentru determinarea numărului de întreruperi de pagină, dacă procesul se execută cu patru pagini fizice inițial libere.  (69)
 Procesul se adresează la paginile A,B,C,D și E în ordinea: ABCDABEABCADBE.Utilizați algoritmul FIFO pentru determinarea numărului de întreruperi de pagină, dacă procesul se execută cu trei pagini fizice, inițial libere.  (2)
 Procesul se adresează la paginile A,B,C,D,E și F în ordinea: ABCDAFBEACFBCDEF. Utilizați algoritmul LRU pentru determinarea numărului de întreruperi de pagină, dacă procesul se execută cu trei pagini fizice, inițial libere.  (48)
+Restaurarea în urma interblocării se face prin preemțiune.  (136)
 Restaurarea în urma interblocarii se face prin preemțiune.  (60)
+Schema listelor înlățuite de blocuri pentru alocarea spațiului pe disc nu este răspândită deoarece:  (122)
 Semafoarele se utilizează la comunicarea proceselor concurente.		(303)
 Semafoarele se utilizează la comunicarea proceselor concurente.	(445)/
 Semafoarele se utilizează la planificarea proceselor.	(271)
@@ -265,6 +269,7 @@ Sistemul de operare Windows este: 	(381)/
 Sistemul de operare Windows este:		(288)
 sort < con >> f1.txt 	(332)
 Specificați funcțiile sistemului de operare:	(273)
+Stările excepționale au loc sincron cu procesorul dar, în mod imprevizibil pentru programator.  (92)
 Stările excepționale au loc sincron cu procesorul dar, în mod imprevizibil pentru programator.	(256)
 Sub sistemul de operare UNIX fiecărui dispozitiv periferic îi este asociat un fișier special.  (52)
 Sub sistemul de operare Windows nu este posibilă rularea programelor DOS.	(418)
@@ -283,7 +288,11 @@ Un sistem de calcul dispune de 16 pagini virtuale și 8 pagini fizice. Dimensiun
 Un sistem de calcul dispune de 16 pagini virtuale și 8 pagini fizice. Dimensiunea unei pagini este 512 octeți.Care este adresa fizică ce corespunde adresei virtuale 3584, dacă tabela de pagini a procesorului curent este următoarea:  (23)
 Un sistem de calcul dispune de 8 pagini virtuale și 4 pagini fizice. Dimensiunea unei pagini este 1024 octeți.Care este adresa fizică ce corespunde adresei virtuale 2127, dacă tabela de pagini a procesorului curent este următoarea:  (50)
 Un sistem de calcul dispune de 8 pagini virtuale și 4 pagini fizice.Dimensiunea unei pagini este 1024 octeți.Care va fi adresa fizică ce corespunde adresei virtuale 4100, dacă tabela de pagini a procesului curent este următoarea:    (7)
+Un sistem de fișiere posedă blocuri de disc a câte 2K fiecare. Dimensiunea medie a fișierelor este 1K. Dacă toate fișierele ar avea dimensiunea de 1K,a câta parte din volumului discului nu ar fi folosită?  (64)
 Un sistem de fișiere posedă blocuri de disc câte 2k fiecare.Dimensiunea medie a fișierelor este 1k. Dacă toate fișierele ar avea dimensiunea de 1k, a câta parte din volumul discului nu ar fi folosită?	                         (262)-
+Un utilizator configurează un fișier cu drepturi de acces 755.Ce utilizator are dreptul de execuție pe fișier? 	(169)
+Un utilizator configurează un fișier cu drepturi de acces 755.Ce utilizator are dreptul de execuție pe fișier? 	(169)
+Una din strategii împotriva interblocărilor este ignorarea în totalitate a problemei.  (92)
 Una din strategii împotriva interblocărilor este prevenirea problemei.                                                                                                                                                                   (27)
 Unitățile de înscripționare CD-uri sunt un exemplu de resursă non-preemptibilă.		                                                                                                                                                 (263)
 Unităţile de inscripţionare CD-uri sunt un exemplu de resursă non-preemptibilă                                                                                                                                                           (9)
