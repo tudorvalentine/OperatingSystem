@@ -1,7 +1,11 @@
-
+În cazul alocării contigue a spațiului pe disc poate să apară o fragmentare, deoarece se pierde o parte din ultimul bloc de date, ocupat de fișiere.Aceasta este o fragmentare externă.  (24)
+În cazul alocării contigue a spațiului pe disc poate să apară o fragmentare, deoarece se pierde o parte din ultimul bloc de date, ocupat de fişiere. Aceasta este o fragmentare externă.	(259)
 În cazul utilizării alocării contigue a spațiului pe disc poate să apară, în timp, o fragmentare a discului și necesitatea compactării datelor din volum la fiecare operație de ștergere fișier.  (45)
 În ce algoritm se transformă algoritmul RR de planificare a proceselor la mărirea cuantei de timp?		(272)
+În ce algoritm se transformă algoritmul RR de planificare a proceselor la mărirea cuantei de timp?		(290)
 În ce stare trece procesul fiu la terminarea procesului părinte?	(278)
+În ce stare trece procesul fiu la terminarea procesului părinte?	(337)
+În ce stare trece procesul fiu la terminarea procesului părinte?	(421)
 În sistem sunt 4 procese și 5 resurse alocate.Numărul resurselor alocate deja și numărul maximal necesar proceselor este:  (2)
 În sistem sunt 6 unități de bandă magnetică și n procese, care concurează pentru resurse.Fiecare proces are nevoie de 2 unități.Care este valoarea maximă a lui n pentru care în sistem nu va apărea interblocarea?  (13)
 În sisteme de partajare a timpului :	(324)
