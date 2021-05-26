@@ -138,20 +138,13 @@ Fişierul este unitatea fizică de organizare a datelor pe suport extern.  (3)
 Fie în sistemul de calcul au fost ințiate 5 procese conform schemei:	(434)/
 Fie în sistemul de calcul au fost inițiate 4 procese conform schemei:	(385)/
 Fie că se execută comenzile DIR d: > c3.asm ...		(335)
-Fie două activități P și Q.		(269)
 Fie două activități P și Q.		(280)
-Fie P1.BAT este următorul fișier de comenzi:  (224)
-Fie P1.BAT este următorul fișier de comenzi: 	(261)&
-Fie P1.BAT este următorul fișier de comenzi: (47)&
+Fie P1.BAT este următorul fișier de comenzi: (47)
 Fie tabela de pagini a procesului curent este următoarea. Dimensiunea paginii este 1024 octeți. Ce adresă fizică corespunde adresei virtuale 1052?  (20)
-Fie tabela de pagini a procesului curent este următoarea. Dimensiunea paginii este 1024 octeți. Ce adresă fizică corespunde adresei virtuale 5499?
-Fie tabela de pagini a procesului curent este următoarea. Sistemul dispune de 8 pagini virtuale și 6 pagini fizice.		(267)
-Fie tabela de pagini a procesului curent este următoarea. Sistemul dispune de 8 pagini virtuale şi 6 pagini fizice. Dimensiunea paginii este 512 octeți. Ce adresă fizică corespunde adresei virtuale 1563?
+Fie tabela de pagini a procesului curent este următoarea. Sistemul dispune de 8 pagini virtuale şi 6 pagini fizice. Dimensiunea paginii este 512 octeți. Ce adresă fizică corespunde adresei virtuale 1536? (208)
 Fie tabela de pagini a procesului curent este următoarea. Sistemul dispune de 8 pagini virtuale şi 6 pagini fizice. Dimensiunea paginii este 512 octeți. Ce adresă fizică corespunde adresei virtuale 500?  (5)
 Folderul este: 		(308)
-Folderul este:	(388)/
 Folosirea multiplelor porțiuni pentru păstrarea datelor în RAM se numește fragmentarea memoriei.  (46)
-Folosirea multiplelor porțiuni pentru păstrarea datelor în RAM se numește fragmentarea memoriei.	(262)
 Folosirea multiplelor porțiuni pentru păstrarea datelor în RAM se numește protecția memoriei.  (11)
 Gestiunea memoriei este o funcție a sistemului de operare.		(344)/
 In general, interblocările implică resurse nonpreemptibile.  (183)
@@ -159,25 +152,16 @@ Informația despre posesorul procesului face parte din contextul de registru al 
 Informația despre toate dispozitivele de citire/scriere face parte din contextul de registru al procesului.	(326)
 Interblocările care implică resurse preemtibile pot fi rezolvate de obicei prin realocarea resurselor de la un proces la altul.  (2)
 Interpretarea comenzilor este o funcție a sistemului de operare.	(361)
-Interpretarea comenzilor este o funcție a sistemului de operare.	(366)
-Interpretarea comenzilor este o funcție a sistemului de operare.	(428)
 La ce se referă termenul de Hardware?	(357)
 La terminarea procesului părinte procesul fiu trece în starea blocat.	(364)
-La terminarea procesului părinte procesul fiu trece în starea blocat.	(400)
 La terminarea procesului părinte starea procesului fiu nu se schimbă.	(365)
-La terminarea procesului părinte starea procesului fiu nu se schimbă.	(477)//
 La terminarea procesului părinte, diferite sisteme de operare schimbă starea procesului fiu diferit.	(312)
-La terminarea procesului părinte, diferite sisteme de operare schimbă starea procesului fiu diferit.	(320)
-La terminarea procesului părinte, diferite sisteme de operare schimbă starea procesului fiu diferit.	(423)
 Locul SO într-un sistem de calcul este între componenta hardware și aplicații.	(488)
 Memoria internă este un exemplu de resursă preemptibilă.  (84)/
 Memoria RAM își pierde conținutul la deconectarea sistemului de calcul.  (1)
 Microsoft Windows, Apple Mac OS și Unix/Linux sunt: 	(313)
 Modul de organizare a sistemului de fișiere în directorii poate fi:  (18)
-Modul de organizare a sistemului de fișiere în directorii poate fi:  (33)
-Modul de organizare a sistemului de fișiere în directorii poate fi:  (96)
 Multiprocesoarele necesită Sisteme de operare cu caracteristici speciale privind comunicația și conectivitatea.		(285)
-Multiprocesoarele necesită Sisteme de operare cu caracteristici speciale privind comunicația și conectivitatea.		(409)
 Noțiunile nucleu integru, sisteme in straturi, micronucleu se referă la:	(274)
 Numărul sectorului, numărul pistei și numărul cilindrului determină în mod unic poziția datelor pe hard disk.  (81)
 O resursă non-preemptibilă este o resursă ce poate fi luată de la deţinătorul ei fără ca execuţia acestuia să eșueze.  (43)
@@ -186,9 +170,7 @@ O resursa poate fi folosita nu doar de un singur proces în orice moment de timp
 O resursa preemptibilă este o resursă care poate fi luată de la procesul care o deţine fără efecte nedorite.  (150)
 Oricărui proces dirijat de SO în sistemul de calcul i se alocă un număr unic de identificare.	(488)
 Oricărui proces dirijat de SO în sistemul de calcul i se alocă un procesor.	(487)
-Pentru a putea utiliza un sistem de fișiere pe o partiție dată, prima acțiune absolut necesară care trebuie executată este:  (127)
 Pentru a putea utiliza un sistem de fișiere pe o partiție dată, prima acțiune absolut necesară care trebuie executată este:  (48)
-Planificarea lucrărilor a fost posibilă odată cu:	(475)/
 Planificarea lucrărilor a fost posibilă odată cu:	(504)
 Porțiunea de spațiu extra spațiului disponibil în RAM se numește memorie fizică.  (151)
 Porțiunea de spațiu extra spațiului disponibil în RAM se numește memorie logică.  (27)
@@ -201,10 +183,7 @@ Principalii algoritmi pentru alocarea memoriei sunt:  (12)
 Principalii algoritmi pentru alocarea spațiului pe disc sunt:  (140)
 Principalul avantaj al utilizării tabelei FAT faţă de schema clasică a listelor înlănţuite de blocuri este:  (5)
 Principalul modul al SO este nucleul.	(487)
-Problemă 	(306)$
-Problemă (268)$
-Problemă (290)$
-Procesul aflat în stare "proces complet" poate părăsi sistemul doar după expirarea unui anumit interval de timp.	(287)ghilimele /
+Procesul aflat în stare "proces complet" poate părăsi sistemul doar după expirarea unui anumit interval de timp.	(287)
 Procesul aflat în stare "proces complet" poate părăsi sistemul numai la re startarea sistemului de calcul.	(316)
 Procesul aflat în stare ”proces complet” poate părăsi sistemul doar după expirarea unui anumit interval de timp.	(471)/
 Procesul aflat în stare ”proces complet” poate părăsi sistemul numai după ce procesul său părinte trece în stare de ”proces complet”.	(422)
