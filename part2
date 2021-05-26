@@ -1,0 +1,124 @@
+Comanda C:\> MOVE *.* d: mută fișiere din directorul curent, discul C: în directorul curent pe discul d:	(320)
+La terminarea procesului părinte, diferite sisteme de operare schimbă starea procesului fiu diferit.	(320)
+Apelurile sistem reprezintă interfața între sistemul de operare și programele utilizatorului.	(322)
+Directiva SHIFT afișează conținutul fișierului de comenzi	(322)
+Comanda RD aaa șterge un director vid aaa	(323)
+Ce reprezintă calea de acces relativă pentru un fișier?	(323)
+În sisteme de partajare a timpului :	(324)
+Ce ne arată extensia unui fișier? 	(325)
+Ce rol îndeplinește microprocesorul?	(325)
+Informația despre toate dispozitivele de citire/scriere face parte din contextul de registru al procesului.	(326)
+Terminul race condition (stare de competiție) se referă la:		(326)
+Comanda dir | find ".txt" > pm redirectează toate fișierele cu extensia .txt din directorul rădacină în fișierul prn.	(330)
+Ce reprezintă calea de acces relativă pentru un fișier?		(330)
+sort < con >> f1.txt 	(332)
+Utilizatorul comunică cu sistemul de calcul prin: 	(334)
+Fie că se execută comenzile DIR d: > c3.asm ...		(335)
+Comanda FIND nu servește la:	(336)
+Procesul fiu la terminarea procesului părinte trece în starea terminat. 	(336)
+În ce stare trece procesul fiu la terminarea procesului părinte?	(337)
+Comanda COPY CON redirectează fișiere de tip .bat	(338)
+Comanda copy file.txt prn 	(338)
+Comanda ren permite redenumerea fișierelor.	(338)
+Comanda RD aaa șterge directorul curent aaa		(339)
+Despre câte generații ale Sistemelor de Operare este vorba?		(340)
+Din SO face parte următorul ansamblu de programare:		(342)/
+Comanda attrib permite schimbarea atributelor fișierelor.	(343)/
+Gestiunea memoriei este o funcție a sistemului de operare.		(344)/
+Comanda move permite mutarea fișierelor.	(346)/
+Care comenzi sunt corecte:	(349)!/
+Directiva SHIFT afișează mulțimea parametrilor formali	(351)/
+Care comenzi sunt corecte? 	(353)!/
+Comunicarea între procese are loc prin:	(353)/
+Comanda DEL *.* șterge toate fișierele din directorul rădăcină și din directorul curent		(355)
+Care comenzi sunt corecte?	(356)!
+Comanda sort < con >> f1.txt	(356)
+Comanda FIND afișează mesaje	(357)
+La ce se referă termenul de Hardware?	(357)
+Semafoarele se utilizează:	(359)
+Semafoarele se utilizează la sincronizarea proceselor.	(360)
+Procesul aflat în stare ”proces complet” poate părăsu sistemul numai după ce procesul său părinte trece în stare de ”proces complet”.	(360)
+Comanda SHIFT afișează mesaje	(360)
+Interpretarea comenzilor este o funcție a sistemului de operare.	(361)
+Care din următoarele situații apar predictibil(prevăzut) într-un sistem de calcul?	(362)
+Un fișier de comenzi este:	(363)!
+La terminarea procesului părinte procesul fiu trece în starea blocat.	(364)
+La terminarea procesului părinte starea procesului fiu nu se schimbă.	(365)
+Interpretarea comenzilor este o funcție a sistemului de operare.	(366)
+Care model de adresare se utilizează la comunicarea proceselor prin conducte (pipe) ?	(367)
+Întreruperile de timer sunt folosite de sistemul de operare la planificarea proceselor.	(368)
+Comanda COPY CON redacteză fișiere textuale 	(369)
+Comanda COPY CON redactează fișiere de tip .bat 	(370)
+Directiva PAUSE întrerupe execuția unei directive.	(372)
+Comanda copy con prn 	(373)
+Un fișier de comenzi poate conține următoarele elemente:	(374)
+Sistemul de operare Windows este: 	(381)/
+Comanda FIND nu servește la:	(382)/
+Comada PAUSE afișează mesaje	(383)/
+Fie în sistemul de calcul au fost inițiate 4 procese conform schemei:	(385)/$
+Care dintre următorii algoritmi permit amânarea nelimitată a selectării unui proces din lista celor gata de execuție:	(387)/
+Toate sistemele de operare ale familiei Windows au fost realizate pentru a fi utizilate de o singură persoană la un moment dat.	(387)/
+Semafoarele se utilizează la sincronizarea proceselor.	(388)/
+Folderul este:	(388)/
+Conținutul regiștrilor procesorului face parte din contextul de registru al procesului.		(389)
+Componenta software a unui calculator este formată din programe destinate să asigure conducerea și controlul procesului de prelucrare și efectuare a unor lucrări curente.	(389)
+Ce ne arată extensia unui fișier?	(390)
+Directiva PAUSE întrerupe temporar execuția unui fișier de tip .bat 	(390)
+Componentele unui sistem de operare sunt apelurile de sistem și întreruperile.	(395)
+Care expresii sunt corecte? 	(398)!
+La terminarea procesului părinte procesul fiu trece în starea blocat.	(400)
+Comanda COPY CON creează fișiere de tip .bat 	(400)
+În sisteme de partajare a timpului: 	(402)
+Ce este un program de aplicație? 	(404)
+Comunicarea între procese are loc prin:	(405)
+Comanda move permite mutarea fișierelor.	(406)
+Ce reprezintă calea de acces relativă pentru un fișier? 	(407)
+Multiprocesoarele necesită Sisteme de operare cu caracteristici speciale privind comunicația și conectivitatea.		(409)
+Sistemul de operare este o aplicație, care necesită resurse pentru a funcționa.	(412)
+Care răspunsuri sunt corecte?	(413)
+Directiva SHIFT afișează mulțimea parametrilor formali	(413)
+Conținutul regiștrilor procesorului face parte din contextul de registru al procesului.	(414)
+Comanda COPY CON creează fișiere textuale	(415)
+Directiva PAUSE întrerupe execuția unui fișier de tip .exe 	(416)
+Sub sistemul de operare Windows nu este posibilă rularea programelor DOS.	(418)
+În ce stare trece procesul fiu la terminarea procesului părinte?	(421)
+Procesul aflat în stare ”proces complet” poate părăsi sistemul numai după ce procesul său părinte trece în stare de ”proces complet”.	(422)
+Din SO face parte următorul ansamblu de programe:	(422)
+La terminarea procesului părinte, diferite sisteme de operare schimbă starea procesului fiu diferit.	(423)
+Sunt posibile următoarele treceri ale proceselor dintr-o stare în alta?		(423)
+Întreruperile hardware apar predictibil(prevăzut) într-un sistem de calcul.		(427)
+Interpretarea comenzilor este o funcție a sistemului de operare.	(428)
+Cel mai răspândit Sistem de operare folosit la dispozitivele mobile este Simbian OS.	(429)/
+Fie în sistemul de calcul au fost ințiate 5 procese conform schemei:	(434)$/
+Comanda attrib permite atribuirea diferitor extensii fișierelor.	(435)/
+Când procesul aflat în stare ”proces complet” poate părăsi sistemul?	(436)/
+Comanda FIND servește la afișarea mesajului indicat pe ecranul monitorului		(437)
+Comanda dir are rolul:	(438)/
+Directiva SHIFT afișează mulțimea argumentelor 	(442)/
+Semafoarele se utilizează:	(444)/
+Semafoarele se utilizează la comunicarea proceselor concurente.	(445)/
+Sunt posibile următoarele treceri ale proceselor dintr-o stare în alta?		(456)/
+Comanda FIND servește la căutarea directoarelor și fișierelor	(457)/
+Sistemul de operare este o aplicație, care necesită resurse pentru a funcționa.		(458)/
+Directiva PAUSE intrerupe execuția unui fișier de tip .com 	(466)/
+Directiva PAUSE întrerupe execuția unei directive.	(470)/
+Procesul aflat în stare ”proces complet” poate părăsi sistemul doar după expirarea unui anumit interval de timp.	(471)/
+Comanda DEL *.* șterge toate fișierele din directorul curent 	(472)/
+Planificarea lucrărilor a fost posibilă odată cu:	(475)/
+Un mod de mărire a puterii de calcul este conectarea mai multor procesoare într-un singur sistem.	(476)/
+La terminarea procesului părinte starea procesului fiu nu se schimbă.	(477)//
+Comanda DEL *.* șterge fișierele din directorul rădăcină 	(478)//
+Ce rol îndeplinește microprocesorul? 	(481)
+Ce este un program de aplicație?	(483)
+Comanda DEL *.* șterge toate fișierele din directorul rădaăcină		(485)
+Oricărui proces dirijat de SO în sistemul de calcul i se alocă un procesor.	(487)
+Principalul modul al SO este nucleul.	(487)
+Oricărui proces dirijat de SO în sistemul de calcul i se alocă un număr unic de identificare.	(488)
+Locul SO într-un sistem de calcul este între componenta hardware și aplicații.	(488)
+Criteriile de comparare ale algorimilor de planificare a proceselor in SC pot fi:	(490)
+Comanda copy 	(490)
+Directiva PAUSE întrerupe execuția unei comenzi 	(496)
+Care dintre sisteme de operare oferă variante atât pentru varianta desktop cât și pentru rețea?		(497)
+Comanda move permite redenumirea fișierelor.	(500)
+Planificarea lucrărilor a fost posibilă odată cu:	(504)
+Comanda time afișează data curentă pe monitor.	(505)
