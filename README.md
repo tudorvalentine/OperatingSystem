@@ -6,6 +6,10 @@ Pentru doua intrebari lucreaza >>>
 2)Repartiția funcțională completează procesul repartiției prin intervenția administrațiilor publice determinînd formarea unor noi venituri
 
 
-- - intrebare cu raspuns necomplet sau gresit
+ "    -  intrebare cu raspuns necomplet sau gresit"
+
 ? - întrebare dea pula , ”Ce execută comanda”,"Expresia regulată (61)"
+
 & - întrebare dea pula , ne standart , afișăm tăt posibil
+
+$ - Probleme , afișăm toate problemele posibile
