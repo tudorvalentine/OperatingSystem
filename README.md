@@ -7,5 +7,5 @@ Pentru doua intrebari lucreaza >>>
 
 
 - - intrebare cu raspuns necomplet sau gresit
-? - întrebare dea pula , ”Ce execută comanda”
+? - întrebare dea pula , ”Ce execută comanda”,"Expresia regulată (61)"
 & - întrebare dea pula , ne standart , afișăm tăt posibil
