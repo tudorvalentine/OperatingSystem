@@ -1,29 +1,3 @@
-#question{
-	width: 80%;
-	height: 100px;
-	margin-bottom: 20px ;
-
-	font-size: 16px;
-	font-weight: bold;
-	position: relative;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, 0)
-}
-#find{
-	width: 100px;
-	height: 30px;
-	border-radius: 10px;
-	background-color: transparent;
-	position: relative;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, 0)
-}
-#answer{
-	position: relative;
-    left: 50%;
-    margin-right: -50%;
-    transform: translate(-50%, 0);
-    margin-top: 20px;
+.main-block{
+	
 }

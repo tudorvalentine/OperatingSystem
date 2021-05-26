@@ -12,7 +12,6 @@
 Întreruperile de soft(de program) apar predictibil(prevăzut) într-un sistem de calcul.	(291)
 Întreruperile de timer sunt folosite de sistemul de operare la planificarea proceselor.	(368)
 Întreruperile hardware apar predictibil(prevăzut) într-un sistem de calcul.		(427)
-Сând procesul aflat în stare ”proces complet” poate părăsi sistemul?	(309)
 Adresa de încărcare a programului în memorie se numește adresă de bază.  (17)
 Adresa determinată ca distanța de la adresa de bază a programului pâna la adresa entității respective se numște adresă relativă.  (35)
 Adresa determinată ca distanța de la adresa de bază a programului pâna la adresa entității respective se numește adresă relativă.  (172)
@@ -24,6 +23,7 @@ Alocarea spațiului de memorie între mai multe programe se face după următoar
 Android este un sistem de operare pentru dispozitive mobile bazat pe nucleu Linux.	(304)
 Apelul de sistem rename permite schimbarea numelui fișierului. Este o deosebire intre acest apel de sistem și copierea fișierului cu un nume nou și ștergerea lui ulterioară.  (162)
 Apelurile sistem reprezintă interfața între sistemul de operare și programele utilizatorului.	(322)
+Сând procesul aflat în stare ”proces complet” poate părăsi sistemul?	(309)
 Care comenzi sunt corecte? 	(353)!/
 Care comenzi sunt corecte?		(270)
 Care din comenzi NU este o comandă de ajutor în SO Linux?  (94)
