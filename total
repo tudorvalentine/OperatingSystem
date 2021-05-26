@@ -133,7 +133,7 @@ Principalul avantaj al utilizării tabelei FAT faţă de schema clasică a liste
 Problemă 	(306)$
 Problemă (268)$
 Problemă (290)$
-Procesul aflat în stare "proces complet" poate părăsi sistemul doar după expirarea unui anumit interval de timp.	(287)ghilimele
+Procesul aflat în stare "proces complet" poate părăsi sistemul doar după expirarea unui anumit interval de timp.	(287)ghilimele /
 Procesul aflat în stare "proces complet" poate părăsi sistemul numai la re startarea sistemului de calcul.	(316)
 Procesul fiu la terminarea procesului părinte trece în starea terminat.		(282)
 Procesul fiu la terminarea procesului părinte trece în starea terminat.		(283)
