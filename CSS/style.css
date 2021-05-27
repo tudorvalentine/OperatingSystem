@@ -1,3 +1,9 @@
 .main-block{
 	
 }
+p{
+	font-family: 'Inconsolata', monospace;
+	font-size: 17px;
+	border: 2px dotted blue;
+	padding: 10px;
+}
