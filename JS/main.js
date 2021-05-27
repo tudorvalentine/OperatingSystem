@@ -3,12 +3,12 @@ const modal = document.querySelector('.modal_link');
 const closeModal = document.querySelector('.btn-close');
 const image = document.querySelector('.imag');
 const btn = document.querySelector('.btn-primary');
-let target;
+
 
 
 elem.addEventListener('click', function(e){
-	let target = e.target;
-	
+	let target = e;
+	console.log(target)
 	target.addEventListener('click', ()=>{
 	modal.classList.remove('hide');
 })
