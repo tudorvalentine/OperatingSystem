@@ -1,6 +1,6 @@
 let elem = document.querySelector('.main-block')
 
-elem.addEventListener('click',function(e){
+elem.addEventListener('click', function(e){
 	const target = e.target;
-	console.log(target)
+	console.log(target.value)
 })
