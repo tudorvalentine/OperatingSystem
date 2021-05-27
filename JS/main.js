@@ -7,13 +7,16 @@ const btn = document.querySelector('.btn-primary');
 
 
 elem.addEventListener('click', function(e){
-	let target = e;
-	console.log(target)
-	target.addEventListener('click', ()=>{
-	modal.classList.remove('hide');
-})
-	/*let value = 'photo ('+target.value+')'+'.jpg';
-	image.src = value;*/
+	let target = e.target;
+	if (target.localName=='button') {
+			target.addEventListener('click', ()=>{
+			modal.classList.remove('hide');
+			let value = 'IMG/photo ('+target.value+')'+'.jpg';
+			image.setAttribute('src', value);
+		})
+
+	}
+	let value = 'photo ('+target.value+')'+'.jpg';
 })
 
 
