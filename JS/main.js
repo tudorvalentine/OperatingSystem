@@ -16,7 +16,7 @@ elem.addEventListener('click', function(e){
 		})
 
 	}
-	let value = 'photo ('+target.value+')'+'.jpg';
+	
 })
 
 
